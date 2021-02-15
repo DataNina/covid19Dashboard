@@ -1,3 +1,4 @@
+
 ########################################## Datapreparation for Covid-19 Dashboard###################################
 
 #####Settings----
@@ -196,10 +197,6 @@ end_time - start_time
 
 #clear all
 #rm(list = ls(all.names = TRUE))
-
-
-
-
 
 
 
